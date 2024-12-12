@@ -29,13 +29,13 @@ A command-line calendar application built in C++ that allows users to view calen
 
 ---
 
-## 🛠️ **How It Works**
+##  **How It Works**
 - **Calendar Generation**: The program uses Zeller’s Congruence algorithm to calculate the first day of the month and dynamically generates the calendar for any given month and year.
 - **Reminder Management**: Users can add, view, and delete reminders stored in memory. The program supports up to 100 reminders.
 
 ---
 
-## 📚 **Installation**
+##  **Installation**
 ### Prerequisites
 - A C++ compiler (GCC, Clang, MSVC, etc.).
 
